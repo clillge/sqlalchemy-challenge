@@ -92,7 +92,7 @@ def tobs():
 
     #Query the dates and temperature observations of the 
     #most-active station for the previous year of data.
-
+    
     #Return a JSON list of temperature observations for the previous year.
 
 
